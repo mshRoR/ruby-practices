@@ -1,3 +1,11 @@
-Mohammad shajedul Hoque
-I am a software engineer
-currently i'm working on a call and solution company
+Training Phase Stand up ~ 06-09-2016 (Ruby)
+
+A. Since our last Stand-up update, what did I work on/accomplish?
+  1. Environment Setup on pc such as: Ubuntu os setup, Ruby on Rails, MySql, apache2, phpMyadmin, jre, RubyMine
+  2. Create new Ruby on Rails project
+
+B. Before our next Stand-up date, what do I plan to work on/accomplish?
+  1. Learning ROR tutorials
+
+C. Do I have any blockers, impediments or obstacles impeding my progress?
+  1. Today I didn't faced any problem on my work.
